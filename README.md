@@ -25,17 +25,15 @@ Pi逃顶指数是[Philip Swift](https://twitter.com/PositiveCrypto)提出的逃�
 
 ### 功能清单
 
-[x] ahr999指数
-[x] ahr999x指数
-[x] PI 逃顶指数
-[] 数据筛选
-[] 价格预警
-[] 量化交易
-[] 其它币种
-
-
-
-
+|  | 项目 |
+| ------- | --------- |
+| &check; | ahr999指数 |
+| &check; | ahr999x指数 |
+| &check; | PI 逃顶指数 |
+| &cross; | 数据筛选 |
+| &cross; | 价格预警 |
+| &cross; | 量化交易 |
+| &cross; | 其它币种 |
 
 ### 使用流程
 
