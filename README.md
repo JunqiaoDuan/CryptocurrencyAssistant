@@ -4,16 +4,24 @@
 本系统用于快速搭建加密货币数据分析平台，只要你有一点点编程基础，就可以快速入手。提供常见的**加密货币分析策略**案例，包括ahr999指数，Pi周期逃顶指数等。后续还将实现价格预警，量化交易等功能。
 本系统灵感来源：[Cryptocurrency-Analysis-Python](https://github.com/triestpa/Cryptocurrency-Analysis-Python)
 
+**量价图**
+
+btc每日量价图
+
+![image](https://github.com/JunqiaoDuan/CryptocurrencyAssistant/blob/main/images/PriceVolume.png)
+
 **ahr999指数实现**
 ahr999指数是微博用户ahr999提出的比特币囤币指数。当指数低于1.2时，表示币价回归正常值，可以开始定投，当指数低于0.45时，表示币价严重低估。
-![image](https://github.com)
-![image](https://github.com)
+![image](https://github.com/JunqiaoDuan/CryptocurrencyAssistant/blob/main/images/ahr999.png)
+![image](https://github.com/JunqiaoDuan/CryptocurrencyAssistant/blob/main/images/ahr999x.png)
 
 **Pi逃顶指数**
 Pi逃顶指数是[Philip Swift](https://twitter.com/PositiveCrypto)提出的逃顶指数。他回测发现，过去3次牛市，币价最高点都发生在MA111超过MA350\*2时，因此该指数可以用于指导是否可以逃顶。（但也正因为回测点太少，可能存在过拟合的情况）
-![image](https://github.com)
+![image](https://github.com/JunqiaoDuan/CryptocurrencyAssistant/blob/main/images/PiTop.png)
 
-___
+
+
+
 
 ### 功能清单
 
@@ -25,7 +33,9 @@ ___
 [] 量化交易
 [] 其它币种
 
-___
+
+
+
 
 ### 使用流程
 
@@ -68,6 +78,12 @@ jupyter notebook
 将文件data/20130428-20210725.tsv拷贝到C盘根目录下
 #### 2. 运行代码
 把项目中main.py的代码，每个 **# In[]** cell中的内容，依次复制到新建的 Jupyter notebook的每一个cell中，点击运行代码，就可以看到代码正常运行，并生成相应的趋势图。
+
+
+
+
+
+
 
 
 
