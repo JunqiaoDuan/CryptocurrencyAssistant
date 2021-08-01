@@ -19,7 +19,7 @@ InteractiveShell.ast_node_interactivity = "all"
 # In[2]:
 
 # 比特币历史数据
-df = pd.read_csv('E:/Repos/BTC_Quantization/Datum_History/CoinMarketCap_Csv/20130428-20210725.tsv', sep='\t')
+df = pd.read_csv('C:/20130428-20210725.tsv', sep='\t')
 df.head()
 
 # In[3]:
