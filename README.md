@@ -76,7 +76,7 @@ jupyter notebook
 将文件data/20130428-20210725.tsv拷贝到C盘根目录下
 #### 2. 运行代码
 把项目中main.py的代码，每个 **# In[]** cell中的内容，依次复制到新建的 Jupyter notebook的每一个cell中，点击运行代码，就可以看到代码正常运行，并生成相应的趋势图。
-
+![image](https://github.com/JunqiaoDuan/CryptocurrencyAssistant/blob/main/images/sample-analyzer.png)
 
 
 
