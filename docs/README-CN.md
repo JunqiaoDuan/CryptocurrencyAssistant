@@ -1,4 +1,6 @@
-# CryptocurrencyAssistant
+
+[English ](https://github.com/JunqiaoDuan/CryptocurrencyAssistant) | 中文
+
 ## 加密货币助手：行情分析，价格预警，量化交易
 
 本系统用于快速搭建加密货币数据分析平台，只要有一点编程基础，就可以快速入手。提供常见的**加密货币分析策略**案例，包括ahr999指数，Pi周期逃顶指数等。后续还将实现价格预警，量化交易等功能。
